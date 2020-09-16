@@ -1,5 +1,8 @@
-# OoDRepository
+# 17160015 이영인
 
-Hello my name is YeongIn
+## 1주차 과제
 
-<img width="600" height="800" src="./Png/kong.PNG"></img>
+## 2주차 과제
+
+## 3주차 과제
+
